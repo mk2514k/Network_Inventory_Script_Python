@@ -1,4 +1,4 @@
-# Network Inventory — Ping Sweep
+# Network Inventory- Ping Sweep
 
 A Python script that sweeps a subnet by pinging every host in a given IP range, records whether each one is up or down, and exports the results to a CSV file.
 
